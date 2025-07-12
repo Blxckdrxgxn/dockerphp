@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        ImageRegistry = 'oluwaseuna'
-        EC2_IP = '3.248.194.72'
+        ImageRegistry = 'pauleysh'
+        EC2_IP = '18.216.231.13'
     }
 
 
