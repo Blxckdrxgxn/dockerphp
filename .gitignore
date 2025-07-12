@@ -1,7 +1,2 @@
-# Ignore .SQL File
-
-*.sql
-
-*.env
-
-.\moodle*
+#.env
+backup*
